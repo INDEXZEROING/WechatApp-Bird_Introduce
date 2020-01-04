@@ -1,0 +1,172 @@
+.card {
+  margin: 10px;
+  position: relative;/*相对定位*/
+}
+
+/*设置图片圆角，阴影偏移量(box-shadow)第一个为x轴的偏移量，第二个为y轴的偏移量*/
+.bg {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #1bdbd2;
+}
+.logo {
+  width: 60px;
+  position:absolute;/*绝对定位*/
+  top: 10px;
+  right:20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #a5d44d;
+}
+.info {
+  position: absolute;
+  left:30px;
+  bottom: 30px;
+  font-size: 16px;
+  color: #070808;
+}
+.name {
+  font-weight: bold;
+}
+.desc {
+  margin-bottom: 10px;
+}
+
+.gifimg {
+  width: 100%;
+  margin: center;
+}
+
+
+
+
+
+.card2 {
+  margin: 10px;
+  position: relative;/*相对定位*/
+}
+.bg1 {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #9bd829;
+}
+.comment {
+  position: absolute;
+  font-weight: bold;
+  left:100px;
+  bottom: 80px;
+  font-size: 25px;
+  color: #2bca80;
+}
+
+
+
+.card3 {
+  margin: 10px;
+  position: relative;/*相对定位*/
+}
+.bg2 {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #d45c76;
+}
+.comment1 {
+  position: absolute;
+  font-weight: bold;
+  left:130px;
+  bottom: 90px;
+  font-size: 25px;
+  color: #c74933;
+}
+
+
+.introduce {
+  margin: 10px;
+}
+.body {
+  padding:15px;
+  line-height: 2;
+}
+.line1 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #1f4996;
+  text-shadow: 1px 0px 2px;
+}
+.line2 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #961f86;
+  text-shadow: 1px 0px 2px;
+}
+.line3 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #85adc4;
+  text-shadow: 1px 2px 2px;
+}
+.line4 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #2d3f5f;
+  text-shadow: 1px 0px 2px;
+}
+.line5 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #96621ff8;
+  text-shadow: 0px 0px 2px;
+}
+.line6 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #89a554;
+  text-shadow: 1px 2px 2px;
+}
+.line7 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #1f9682;
+  text-shadow: 1px 0px 2px;
+}
+.line8 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #3b961f;
+  text-shadow: 1px 0px 2px;
+}
+.line9 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #961f29;
+  text-shadow: 0px 0px 2px;
+}
+.line10 {
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color: #31a3c5;
+  text-shadow: 0px 1px 2px;
+}
+.logo2 {
+  width: 100%;
+  border-radius: 10px;
+}
+.power {
+  text-align: center;
+  font-size:11px;
+  line-height: 20px;
+  color: #484e4d;
+  font-weight: bold;
+  margin-bottom: 10px;
+  border-top: 1px solid #707575;
+
+}
