@@ -6,7 +6,7 @@ git clone https://github.com/itwcn/WechatApp-Bird_Introduce.git
 ## 开发步骤
 下载完成后，打开开发工具，就可以看到相应的功能，在此小程序中你可以学习相关组件的使用方法，了解更多的开发技巧，开发出你自己喜欢的小程序。当然，此小程序仅作为组件入门的开发Demo。
 - 打开微信开发工具，导入项目，填写你的APPID，即可看到这个Demo
-- 对于ColorUI组件库的使用，相关使用方法请☞ [](https://github.com/weilanwl/ColorUI)
+- 对于ColorUI组件库的使用，相关使用方法请☞ [ColorUI](https://github.com/weilanwl/ColorUI)
 
 
 ## 感谢
