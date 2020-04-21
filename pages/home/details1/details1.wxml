@@ -1,0 +1,33 @@
+<!--pages/details1/details1.wxml-->
+<swiper class="banner" indicator-dots="true" indicator-color="#1bdbd2" indicator-active-color="red" autoplay interval="3500" circular previous-margin="5" next-margin="5">
+  <swiper-item>
+    <image src="http://5b0988e595225.cdn.sohucs.com/images/20170913/a879c5d095944338b14dcd3562443bc9.gif"></image>
+  </swiper-item>
+
+  <swiper-item>
+    <image src="http://p0.ifengimg.com/pmop/2018/0720/B074ED0BADDA26D581435650C39E31C79F85921C_size241_w559_h298.gif"></image>
+  </swiper-item>
+
+  <swiper-item>
+    <image src="http://s9.rr.itc.cn/r/wapChange/20172_13_17/a64uqu4389726612542.jpg"></image>
+  </swiper-item>
+
+  <swiper-item>
+    <image src="http://www.mottoin.com/wp-content/uploads/2017/09/170918-Cox-The-Hackers-Hitting-Back-At-Cybercriminals-hero_vkcor5.gif"></image>
+  </swiper-item>
+
+  <swiper-item>
+    <image src="http://5b0988e595225.cdn.sohucs.com/images/20171016/7e6c8a0c0a9a472ab60de57c3f07038d.gif"></image>
+  </swiper-item>
+
+  <swiper-item>
+    <image src="http://p0.ifengimg.com/pmop/2018/0621/C8809DE34D4C52F8B08211007353CBA8E81E96F5_size1234_w471_h253.gif"></image>
+  </swiper-item>
+</swiper>
+
+
+<view class="body1">
+  <view class="title1">IT民工</view>
+  <image class="pic2" mode="widthFix" src="/images/13.png"></image>
+  <view class="text1">撸代码一时爽，一直撸代码一直爽</view>
+</view>

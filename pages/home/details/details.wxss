@@ -1,0 +1,147 @@
+/* pages/details/details.wxss */
+.banner {
+  width: 100%;
+  height: 220px;
+  box-shadow: 5px 5px 10px #1bdbd2;
+}
+.banner image {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+
+/* .picture1 {
+  margin: center;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #1bdbd2;
+} */
+
+
+.head {
+  margin-top: 24px;
+  font-weight: bold;
+  text-align: center;
+  font-size:30px;
+  margin-bottom: 15px;
+  color: #101111;
+  text-shadow: 2rpx 2rpx #abce6b;
+}
+
+/* 横着的分割View样式 */
+/*分割线样式*/
+.divLine{
+  background: #E0E3DA;
+  width: 100%;
+  height: 6rpx;
+}
+
+
+.title_one {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 3px 3px 10px #707473;
+  color: #2b2e2e;
+}
+.article_one {
+  padding: 12px;
+  line-height: 2;
+  text-indent:2em;/*设置段落首行缩进*/
+  padding-bottom: 10px;
+  word-spacing: 2px;/*设置字母间距*/
+  color: #626666;
+}
+
+.title_two {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 3px 3px 10px #707473;
+  color: #2b2e2e;
+
+}
+.article_two {
+  padding: 12px;
+  line-height: 2;
+  text-indent:2em;/*设置段落首行缩进*/
+  padding-bottom: 10px;
+  word-spacing: 2px;/*设置字母间距*/
+  color: #626666;
+}
+
+.article_two p1{
+  background-color: gray;
+}
+
+.small_title1{
+  font-size: 16px;
+  color: #2b2e2e;
+  padding-bottom:  10px;
+  font-weight: bold;
+
+}
+
+.small_title2 {
+  font-size: 16px;
+  color: #101111;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.small_title3 {
+  font-size: 16px;
+  color: #101111;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.small_title4 {
+  font-size: 16px;
+  color: #101111;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.small_title5 {
+  font-size: 16px;
+  color: #101111;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.title_head1 {
+  font-size: 16px;
+  color: #3ca0ad;
+  font-weight: bold;
+}
+.title_head1 {
+  font-size: 16px;
+  color: #3ca0ad;
+  font-weight: bold;
+}
+
+.title_head2 {
+  font-size: 16px;
+  color: #3ca0ad;
+  font-weight: bold;
+}
+.title_head3 {
+  font-size: 16px;
+  color: #3ca0ad;
+  font-weight: bold;
+}
+
+.title_head4 {
+  font-size: 16px;
+  color: #3ca0ad;
+  font-weight: bold;
+}
+
+.title_head5 {
+  font-size: 16px;
+  color: #3ca0ad;
+  font-weight: bold;
+}

@@ -1,0 +1,50 @@
+<view class="head"> 
+  <image class="me" mode="widthFix" src="/images/head.jpg"></image>
+  <view class="name">王菜鸟</view>
+  <view class="age">乐码 乐创 乐跑</view>
+</view>
+
+<image class="gifimg" mode="widthFix" src="/images/3.gif"></image>
+
+<view class="card">
+  <image class="bg" mode ="widthFix" src="/images/6.gif" show-menu-by-longpress></image>
+  <image class="logo" mode ="widthFix" src ="/images/2.png "></image>
+
+  <view class="info">
+    <view class="desc">1024，创造乐码之旅！</view>
+    <view>15272272758</view>
+    <view>1720929001@qq.com</view>
+  </view>
+</view>
+
+<view class="sperateline">点击下方名片即了解我哟</view>
+
+<view class="card2" bindtap='toDetails'>
+  <image class="bg1" mode ="widthFix" src="/images/4.jpg"></image>
+  <view class="comment">创作青年王菜鸟</view>
+</view>
+
+<view class="card3" bindtap="toDetails1">
+  <image class="bg2" mode="widthFix" src="/images/1_1.jpg"></image>
+  <view class="comment1">码农王菜鸟</view>
+</view>
+
+<view class="introduce">
+  <view class="body">
+    <view class="line1">有一人</view>
+    <view class="line2">玉树临风</view>
+    <view class="line3">英俊非凡</view>
+    <view class="line4">博学多才</view>
+    <view class="line5">见多识广</view>
+    <view class="line6">才高八斗学富五车</view>
+    <view class="line7">文武双全雄韬伟略</view>
+    <view class="line8">你想知道他都是谁嘛?</view>
+    <view class="line9">你想知道他都长什么样吗?</view>
+    <view class="line10">看我，看看我，你看我像那种人吗?</view>
+  </view>
+</view>
+<image class="logo2" mode ="widthFix" src ="/images/2.png "></image>
+<view class="power"> 
+  <view class="support">Powered by King of Rookies</view>
+  <view>技术支持：王菜鸟</view>
+</view>
